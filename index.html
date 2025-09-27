@@ -6,23 +6,23 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
     <title>TailwindCssv4</title>
-    <stale>
+    <style>
         @import 'tailwindcss/base';
         @import 'tailwindcss/components';
         @import 'tailwindcss/utilitis';
 
         .dropdown-menu{
-            transfrom: translatey(10px);
+            transform: translatey(10px);
             opacity:0;
             visibility: hidden;
-            transition: all 0.3 ease-in-ease-in-out;
+            transition: all 0.3s ease-in-out;
             pointer-events: none;
         }
 
 
-dropdown:houver .dropdown-menu{
+.dropdown:hover .dropdown-menu{
     transform: translatey(0);
-    opacity;1
+    opacity: 1;
     visibility: visible;
     pointer-events: auto;
 
@@ -30,21 +30,21 @@ dropdown:houver .dropdown-menu{
 }
 
 .menu-link {
-    trnasition: all 0.3s ease;
+    transition: all 0.3s ease;
 
 }
 
-.dropdown:houver . arrow
+.dropdown:hover .arrow
 {
-    transform: rotate (180deg);
+    transform: rotate(180deg);
 
 }
 .arrow{
-    transsition: transform 03s ease;
+    transition: transform 0.3s ease;
 }
-        }
         
-    </stale>
+        
+    </style>
 
 </head>
 <head class="bg-white shadow-lg sticky top-0 z-50">
@@ -64,7 +64,11 @@ MeuSite
     </h1>
 
 </div>
-<nav class="">
+<nav class="flex space-x8">
+    <a href="#" class="menu-link text-gray-700
+    hover:text-blue-600 px-4 py-2 rounded-md 
+    text-sm font-medium hover:bg-blue-50
+    transition-colors duration-200"></a>
 
 </nav>
     </div>
