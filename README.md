@@ -42,7 +42,8 @@ git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilm
 ## 👨‍💻 Contato
 
 Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Solares.
-* **[Meu LinkedIn](www.linkedin.com/in/deilson-mendes)
+
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes).
 * **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
 * **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
 * **Telefone:** [85) 98561-7285](8598561-7285)
