@@ -6,7 +6,6 @@ Olá! Este repositório contém o código-fonte do meu portfólio online, desenv
 
 | Link | Descrição |
 | :--- | :--- |
-| **[Ver Portfólio Online](https://[SEU_LINK_DE_DEPLOY].com)** | Link para a versão hospedada e ativa do site. |
 | **[Meu LinkedIn](https://linkedin.com/in/[SEU_PERFIL_LINKEDIN])** | Conecte-se e veja meu histórico profissional. |
 | **[Entre em Contato](mailto:[deilsongilmar@gmail.com])** | Envie-me um e-mail diretamente. |
 
@@ -33,3 +32,24 @@ O desenvolvimento deste portfólio utiliza uma stack moderna e eficiente:
 ## 📁 Estrutura do Repositório
 
 O projeto é muito simples, contendo apenas um arquivo principal:
+
+
+
+git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/).
+
+
+
+## 👨‍💻 Contato
+
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Solares.
+* **[Meu LinkedIn](https://linkedin.com/in/[SEU_PERFIL_LINKEDIN])
+* **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+* **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
+* **Telefone:** [85) 98561-7285](8598561-7285)
+* **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+
+---
+
+
+
+
