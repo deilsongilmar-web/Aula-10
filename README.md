@@ -17,7 +17,7 @@ Este projeto foi construído com foco em **performance, responsividade** e um **
 
 * **Home/Hero:** Apresentação inicial e chamada para ação.
 * **Sobre Mim:** Minha jornada, habilidades e o que busco em novos desafios.
-* **Projetos:** Destaque para meus trabalhos mais relevantes ( ).
+* **Projetos:** Destaque para meus trabalhos mais relevantes ( https://github.com/deilsongilmar-web/Aula-05- ).
 * **Contato:** Formulário e informações para facilitar a comunicação.
 
 ## 🛠️ Tecnologias Utilizadas
