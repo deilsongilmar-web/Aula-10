@@ -17,7 +17,7 @@ Este projeto foi construído com foco em **performance, responsividade** e um **
 
 * **Home/Hero:** Apresentação inicial e chamada para ação.
 * **Sobre Mim:** Minha jornada, habilidades e o que busco em novos desafios.
-* **Projetos:** Destaque para meus trabalhos mais relevantes (links para repositórios ou demos).
+* **Projetos:** Destaque para meus trabalhos mais relevantes ( ).
 * **Contato:** Formulário e informações para facilitar a comunicação.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -35,19 +35,24 @@ O projeto é muito simples, contendo apenas um arquivo principal:
 
 
 
-git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/).
+git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/)
 
 
 
 ## 👨‍💻 Contato
 
-Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Solares.
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Solares
 
-* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes).
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes)
+  
 * **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+ 
 * **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
-* **Telefone:** [85) 98561-7285](8598561-7285)
+  
 * **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+  
+* **Telefone:** [85) 98561-7285](8598561-7285)
+  
 
 ---
 
