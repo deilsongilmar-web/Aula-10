@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/64f4b3fa-3091-4835-a722-b4749c93b964)
+
+
 # 🚀 Meu Portfólio Pessoal
 
 Olá! Este repositório contém o código-fonte do meu portfólio online, desenvolvido para apresentar minhas habilidades, projetos e experiências profissionais na área de desenvolvimento web.
